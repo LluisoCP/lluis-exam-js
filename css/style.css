@@ -93,21 +93,7 @@ header {
       align-items: center;
       flex-direction: row;
       margin: 0 10px;
-      width: auto;
-      /*
-      background: rgba(221,221,221, .5);
-      @include flexflex(start, center, column);
-      select, input, button {
-      	width: 80%;
-      	font-weight: bold;
-      }
-      select, input {
-      	margin: 10px 0 10px;
-      	padding: 5px 0;
-      	border-radius: 5px;
-      	width: 95%;
-      }
-      */ }
+      width: auto; }
       header section form #form select, header section form #form input {
         margin: 5px 10px; }
       header section form #form button {
